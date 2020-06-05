@@ -10,6 +10,16 @@ public class Main {
 //        new Problem5().run();
 //        new Problem6().run();
 //        new Problem7().run();
+//        new Problem8().run();
+//        new Problem9().run();
+//        new Problem10().run();
+//        new Problem11().run();
+//        new Problem12().run();
+//        new Problem13().run();
+//        new Problem14().run();
+//        new Problem15().run();
+//        new Problem16().run();
+        new Problem17().run();
     }
 
 }
