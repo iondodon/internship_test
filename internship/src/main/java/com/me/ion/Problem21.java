@@ -11,6 +11,14 @@ public class Problem21 {
     private int n, m;
     private int[][] l = new int[MAX_RANGE][MAX_RANGE];
 
+    {
+        try {
+            sc = new Scanner(file);
+        } catch (FileNotFoundException e) {
+            e.printStackTrace();
+        }
+    }
+
     private class Coordinate {
         int x;
         int y;
@@ -25,14 +33,6 @@ public class Problem21 {
 
         public String toString() {
             return "{" + x + ", " + y + "}";
-        }
-    }
-
-    {
-        try {
-            sc = new Scanner(file);
-        } catch (FileNotFoundException e) {
-            e.printStackTrace();
         }
     }
 
