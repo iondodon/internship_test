@@ -2,10 +2,6 @@ package com.me.ion;
 
 import java.util.Comparator;
 
-
-/**
- * https://algs4.cs.princeton.edu/25applications/Point2D.java.html
- */
 public final class Point2D implements Comparable<Point2D> {
 
     public static final Comparator<Point2D> X_ORDER = new XOrder();

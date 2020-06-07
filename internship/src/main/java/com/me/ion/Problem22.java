@@ -7,9 +7,6 @@ import java.util.Iterator;
 import java.util.Scanner;
 import java.util.Stack;
 
-/**
- * https://algs4.cs.princeton.edu/code/edu/princeton/cs/algs4/GrahamScan.java.html
- */
 public class Problem22 {
     private final File file = new File("input.in");
     private Scanner sc;
