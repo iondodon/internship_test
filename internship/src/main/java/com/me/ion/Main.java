@@ -24,8 +24,9 @@ public class Main {
 //        new Problem19().run();
 //        new Problem20().run();
 //        new Problem21().run();
-        new Problem22().run();
+//        new Problem22().run();
 //        new Problem23().run();
+        new Problem24().run();
     }
 
 }

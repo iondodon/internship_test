@@ -79,7 +79,7 @@ public class Problem22 {
         return true;
     }
 
-    public void run() {
+    void run() {
         int N = sc.nextInt();
         Point2D[] points = new Point2D[N];
         for (int i = 0; i < N; i++) {
